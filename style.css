@@ -1,0 +1,55 @@
+body{
+    padding: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-size: 50px;
+}
+.login{
+    width: 40%;
+    font-size: larger;
+    height: 300px;
+    margin-top: 50px; 
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#transaction-area{
+    display: none;
+}
+.Deposit{
+
+    background-color: slateblue;
+}
+.Withdraw{
+    background-color: lightsalmon;
+
+}
+.Balance{
+    background-color: orange;
+
+}
+.status{
+    padding: 50px;
+    margin-left: 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+   
+}
+.submit-area{
+    margin-left: 50px;
+    margin-top: 50px; 
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    font-weight: 100px;
+
+}
+.Deposit1{
+
+}
+.withdraw1{
+
+}
